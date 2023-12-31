@@ -1,4 +1,4 @@
 # firstDemo
 This is my first my Repository
 <br>
-Author-Karan
+Author-Karan Singh
